@@ -29,8 +29,8 @@ This project is a **Streamlit-based AI chatbot** that allows users to ask **natu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/PrinceGupta8/basic-qa-chatbot.git
-   cd basic-qa-chatbot
+   git clone https://github.com/PrinceGupta8/End-to-End-chatbot-GenAI-App.git
+   cd End-to-End-chatbot-GenAI-App
    ```
 2. **Create a virtual environment** (optional but recommended)
    ```bash
